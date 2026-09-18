@@ -51,9 +51,11 @@ lib/
 │ ├── login_screen.dart # Écran de connexion
 │ ├── home_screen.dart # Liste des notes
 │ └── add_note_screen.dart # Écran d'ajout
+├── videoUtilisation/
+│  └── FATOMBI_Marius_Akomedi_Video_d_utilisation.mp4 # Vidéo d'utilisation
 └── widgets/
-├── edit_note_dialog.dart # Dialog de modification
-└── delete_confirm_dialog.dart # Dialog de confirmation
+    ├── edit_note_dialog.dart # Dialog de modification
+    └── delete_confirm_dialog.dart # Dialog de confirmation
 
 
 ---
